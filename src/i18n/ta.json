@@ -1,0 +1,22 @@
+{
+    "welcome": "வரவேற்பு",
+    "dashboard": "டாஷ்போர்டு",
+    "enter_ticket": "டிக்கெட்டை உள்ளிடுக",
+    "travel_route": "பயண பாதை",
+    "scan_qr": "QR ஐ ஸ்கேன் செய்யவும்",
+    "admin_panel": "நிர்வாக குழு",
+    "language": "மொழி",
+    "login": "உள்நுழை",
+    "register": "பதிவுசெய்",
+    "logout": "வெளியேறு",
+    "my_bookings": "என் முன்பதிவுகள்",
+    "airport_services": "விமான நிலைய சேவைகளை ஆராயுங்கள்",
+    "current_location": "உங்கள் தற்போதைய இருப்பிடம்",
+    "open": "திற",
+    "no_services": "எந்த சேவைகளும் இல்லை.",
+    "guest_traveler": "விருந்தினர் பயணி ✈️",
+    "get_directions": "திசைகளைப் பெறவும்",
+    "location_error": "இடம் அணுகல் நிராகரிக்கப்பட்டது.",
+    "geolocation_unsupported": "நிலத்தோற்றம் ஆதரிக்கப்படவில்லை."
+  }
+  

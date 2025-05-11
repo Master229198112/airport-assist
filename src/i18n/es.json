@@ -1,0 +1,22 @@
+{
+    "welcome": "Bienvenido",
+    "dashboard": "Tablero",
+    "enter_ticket": "Ingresar boleto",
+    "travel_route": "Ruta de viaje",
+    "scan_qr": "Escanear QR",
+    "admin_panel": "Panel de administración",
+    "language": "Idioma",
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "logout": "Cerrar sesión",
+    "my_bookings": "Mis reservas",
+    "airport_services": "Explorar servicios del aeropuerto",
+    "current_location": "Tu ubicación actual",
+    "open": "Abierto",
+    "no_services": "No hay servicios disponibles.",
+    "guest_traveler": "Viajero invitado ✈️",
+    "get_directions": "Obtener direcciones",
+    "location_error": "Acceso a la ubicación denegado.",
+    "geolocation_unsupported": "Geolocalización no compatible."
+  }
+  

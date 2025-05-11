@@ -1,0 +1,22 @@
+{
+    "welcome": "स्वागत है",
+    "dashboard": "डैशबोर्ड",
+    "enter_ticket": "टिकट दर्ज करें",
+    "travel_route": "यात्रा मार्ग",
+    "scan_qr": "क्यूआर स्कैन करें",
+    "admin_panel": "प्रशासन पैनल",
+    "language": "भाषा",
+    "login": "लॉगिन",
+    "register": "रजिस्टर",
+    "logout": "लॉगआउट",
+    "my_bookings": "मेरी बुकिंग्स",
+    "airport_services": "एयरपोर्ट सेवाएं देखें",
+    "current_location": "आपका वर्तमान स्थान",
+    "open": "खुला",
+    "no_services": "कोई सेवाएं उपलब्ध नहीं हैं।",
+    "guest_traveler": "अतिथि यात्री ✈️",
+    "get_directions": "निर्देश प्राप्त करें",
+    "location_error": "स्थान एक्सेस अस्वीकृत।",
+    "geolocation_unsupported": "जियोलोकेशन समर्थित नहीं है।"
+  }
+  

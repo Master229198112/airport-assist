@@ -1,0 +1,22 @@
+{
+    "welcome": "స్వాగతం",
+    "dashboard": "డాష్‌బోర్డ్",
+    "enter_ticket": "టికెట్ నమోదు చేయండి",
+    "travel_route": "ప్రయాణ మార్గం",
+    "scan_qr": "QR స్కాన్ చేయండి",
+    "admin_panel": "అడ్మిన్ ప్యానెల్",
+    "language": "భాష",
+    "login": "లాగిన్",
+    "register": "నమోదు",
+    "logout": "లాగ్అవుట్",
+    "my_bookings": "నా బుకింగ్స్",
+    "airport_services": "ఎయిర్‌పోర్ట్ సేవలను అన్వేషించండి",
+    "current_location": "మీ ప్రస్తుత స్థానం",
+    "open": "ఓపెన్",
+    "no_services": "ఎటువంటి సేవలు అందుబాటులో లేవు.",
+    "guest_traveler": "అతిథి ప్రయాణికుడు ✈️",
+    "get_directions": "దారులను పొందండి",
+    "location_error": "ప్రాంతం యాక్సెస్ నిరాకరించబడింది.",
+    "geolocation_unsupported": "భౌగోళికస్థానాన్ని మద్దతు ఇవ్వదు."
+  }
+  

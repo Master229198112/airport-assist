@@ -1,0 +1,10 @@
+Airport Project
+
+conda activate airport
+cd D:\VS_Code
+cd airport-assist
+(airport) PS D:\VS_Code\airport-assist>
+
+
+(airport) PS D:\VS_Code\airport-assist> pm2 start sendReminders.js --name reminder-worker --cron "* * * * *"
+(airport) PS D:\VS_Code\airport-assist> pm2 logs reminder-worker

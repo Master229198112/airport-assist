@@ -1,0 +1,22 @@
+{
+    "welcome": "Welcome",
+    "dashboard": "Dashboard",
+    "enter_ticket": "Enter Ticket",
+    "travel_route": "Travel Route",
+    "scan_qr": "Scan QR",
+    "admin_panel": "Admin Panel",
+    "language": "Language",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "my_bookings": "My Bookings",
+    "airport_services": "Explore Airport Services",
+    "current_location": "Your Current Location",
+    "open": "Open",
+    "no_services": "No services available.",
+    "guest_traveler": "Guest Traveler ✈️",
+    "get_directions": "Get Directions",
+    "location_error": "Location access denied.",
+    "geolocation_unsupported": "Geolocation not supported."
+  }
+  
