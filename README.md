@@ -53,7 +53,7 @@ This platform enhances the airport experience by:
 
 ---
 
-## 🗺️ Folder Structure (Simplified)
+## 🗺️ Folder Structure
 
 
 ---
