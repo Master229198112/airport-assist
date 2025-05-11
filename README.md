@@ -84,7 +84,7 @@ This platform enhances the airport experience by:
 
 ## 🧑‍💻 Development Setup
 
-```bash
+
 # 1. Clone the repository
 git clone https://github.com/master229198112/airport-assist.git
 cd airport-assist
@@ -98,3 +98,21 @@ cp .env.example .env
 
 # 4. Run the app
 npm run dev
+
+---
+## 🤝 Contributing
+- Fork the repo
+
+- Create a feature branch (git checkout -b feature/awesome-feature)
+
+- Commit changes (git commit -m 'Add awesome feature')
+
+- Push and create a PR
+
+
+## 🧭 Contact & Support
+For queries, contributions, or collaborations, contact:
+
+## 📧 vishalkumar.sharma37@gmail.com
+
+## 🌐 airportassist.com
